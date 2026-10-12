@@ -1,0 +1,6 @@
+interface:
+  display_name: "Strapi 5 Implementation"
+  short_description: "Build Strapi 5 applications with native admin UX"
+  default_prompt: "Use $strapi-v5-implementation to inspect and implement this Strapi 5 application change with appropriate verification."
+policy:
+  allow_implicit_invocation: true
